@@ -6,4 +6,12 @@
     </style>
 
     <style name="Theme.NoteAppCDAMut" parent="Base.Theme.NoteAppCDAMut" />
+    <style name="TitleFont">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="ContentFont">
+        <item name="android:textColor">#494949</item>
+        <item name="android:textSize">15sp</item>
+    </style>
 </resources>
